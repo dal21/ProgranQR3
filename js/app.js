@@ -1,4 +1,4 @@
-const unityInstance = UnityLoader.instantiate("unityContainer", "Build/New folder.json");
+const unityInstance = UnityLoader.instantiate("unityContainer", "Build/Progranimate Christmas.json");
 let isCameraReady = false;
 let isDetectionManagerReady = false;
 let gl = null;
